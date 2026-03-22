@@ -1,11 +1,11 @@
-//Calculate and print the product of all digits of a number 
+//Calculate and print the Sum of all digits of a number 
 
 #include<stdio.h>
 
 int main(){
 
     long long int numGiven = 106778668668 ; 
-    long long int num =numGiven ; //given number , product of all digits in it 
+    long long int num =numGiven ; //given number , Sum of all digits in it 
     int sumOfDigits = 0 ; 
     int digit = 1 ; // this will store each digit one by one 
  
