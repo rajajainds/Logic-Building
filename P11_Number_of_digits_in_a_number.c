@@ -5,7 +5,7 @@
 int main(){
 
     int numGiven = 100 ; 
-    int num = numGiven ; //given number , product of all digits in it 
+    int num = numGiven ; //given number  
     int count = 0 ; // this will store count of each digit one by one 
     if (num != 0 ){
         
