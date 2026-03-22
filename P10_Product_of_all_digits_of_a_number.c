@@ -20,7 +20,7 @@ int main(){
     } 
     }
 
-    printf("Sum of all digits of number %d is : %d\n",numGiven,productOfDigits);
+    printf("Product of all digits of number %d is : %d\n",numGiven,productOfDigits);
 
     return 0;
 }
