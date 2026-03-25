@@ -17,9 +17,5 @@ int main(){
     printf("Sum of all factors of number %d is %d ",numGiven,sumOfFactors);
 
 
-
-
-
-
     return 0;
 }
