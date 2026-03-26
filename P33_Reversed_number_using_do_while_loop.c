@@ -1,4 +1,4 @@
-// print the reversed of teh given number using do-while loop
+// print the reversed of the given number using do-while loop
 
 #include<stdio.h>
 
