@@ -9,7 +9,7 @@ int main(){
     for(int i=1;i<=100;i++){
         printf("%d\n",i);
 
-        if(i%17==0){
+        if(i%numStop==0){
             break;
         }
         }
