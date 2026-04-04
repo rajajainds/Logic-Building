@@ -4,7 +4,7 @@
 
 int main(){
 
-    int numGiven=4; //number of first n natural numbers 
+    int numGiven=4; //number of first n even numbers 
     int num = numGiven;
 
     int sum =(int)(num*(num+1));
