@@ -9,10 +9,9 @@ int main(){
     int terms=7;
     
 
-    for(int i=1;i<=terms;i++){
-        printf("[%d] term : %d\n",i,(firstTerm+=commonDifference));
+    for(int i=0;i<terms;i++){
+        printf("[%d] term : %d\n",i+1,(firstTerm+(i)*commonDifference));
     }
-
 
 
 
