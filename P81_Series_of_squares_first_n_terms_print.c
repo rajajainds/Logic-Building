@@ -7,13 +7,13 @@ int main(){
 
     int terms =7;
 
-    int valusOfSeries=0;
+    int valueOfSeries=0;
 
     for(int i=1;i<=terms;i++){
-        valusOfSeries+=pow(i,2);
+        valueOfSeries+=pow(i,2);
     }
 
-    printf("The valus of this series is %d",valusOfSeries);
+    printf("The value of this series is %d",valueOfSeries);
     
 
 

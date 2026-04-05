@@ -1,4 +1,4 @@
-// find value of series of subes of natural numbers 
+// find value of series of cubes of natural numbers 
 
 #include<stdio.h>
 #include<math.h>
@@ -7,13 +7,13 @@ int main(){
 
     int terms =5;
 
-    int valusOfSeries=0;
+    int valueOfSeries=0;
 
     for(int i=1;i<=terms;i++){
-        valusOfSeries+=pow(i,3);
+        valueOfSeries+=pow(i,3);
     }
 
-    printf("The valus of this series is %d",valusOfSeries);
+    printf("The valus of this series is %d",valueOfSeries);
     
 
 
